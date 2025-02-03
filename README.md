@@ -52,7 +52,5 @@ Projeto educativo utilizando o microcontrolador RP2040 para demonstrar o uso de 
 ## 🎥 Demonstração
 Assista ao vídeo de demonstração do projeto em funcionamento:
 
-[![Vídeo de Demonstração](https://img.youtube.com/vi/JxUtQq1yMBE/0.jpg)](https://youtu.be/JxUtQq1yMBE)
-
-
+[![Vídeo de Demonstração](https://img.youtube.com/vi/JxUtQq1yMBE/maxresdefault.jpg)](https://youtu.be/JxUtQq1yMBE)
 
