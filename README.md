@@ -16,12 +16,12 @@ Projeto educativo utilizando o microcontrolador RP2040 para demonstrar o uso de 
 - ⚡ **Debouncing** implementado via software.
 
 ## 🛠 Hardware Necessário
-| Componente       | GPIO  |
-|-------------------|-------|
-| Matriz WS2812 5x5 | GPIO7 |
-| LED RGB (vermelho)| GPIO13|
-| Botão A           | GPIO5 |
-| Botão B           | GPIO6 |
+| Componente         | GPIO   |
+| ------------------ | ------ |
+| Matriz WS2812 5x5  | GPIO7  |
+| LED RGB (vermelho) | GPIO13 |
+| Botão A            | GPIO5  |
+| Botão B            | GPIO6  |
 
 ## 🚀 Como Executar
 1. **Clonar o repositório**:
@@ -30,12 +30,7 @@ Projeto educativo utilizando o microcontrolador RP2040 para demonstrar o uso de 
    ```
 2. **Configurar o ambiente Pico SDK**:
    - Certifique-se de que o Raspberry Pi Pico SDK está corretamente instalado e configurado no seu ambiente de desenvolvimento.
-3. **Compilar o projeto**:
-   ```bash
-   mkdir build && cd build
-   cmake ..
-   make -j4
-   ```
+3. **Compile e carregue o código no microcontrolador.**:
 4. **Conectar a placa BitDogLab** ao seu computador.
 5. **Enviar o arquivo `ws2812.uf2`** gerado para a placa.
 
